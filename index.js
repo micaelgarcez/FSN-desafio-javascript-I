@@ -188,4 +188,3 @@ function aprovarAluno(aluno){
     return false;
   }
 }
-console.log(aprovarAluno({nome: 'Guilherme'}));
